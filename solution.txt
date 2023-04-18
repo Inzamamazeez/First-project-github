@@ -1,0 +1,2 @@
+git restore:- The restore command helps to unstage or evendiscard [D[D[D[D[D[D[D[D discard uncommitted local changes.
+git restore --staged:- It removes the file from the staging area,but leaves its actual modification untouched.
